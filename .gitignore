@@ -18,8 +18,11 @@ build
 .gradle
 
 # other
+.vscode
 eclipse
 run
+LICENSE.txt
+README.txt
 
 # Files from Forge MDK
 forge*changelog.txt
