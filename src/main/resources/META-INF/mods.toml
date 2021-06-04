@@ -35,7 +35,7 @@ description='''
 A server side addon for the Vault mod by the Iskallia Dev team. Adds commands and features that allows server owners to augment the VH experience.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
-[[dependencies.vaulthunters]] #optional
+[[dependencies.vaultaddons]] #optional
     # the modid of the dependency
     modId="forge" #mandatory
     # Does this dependency have to exist - if not, ordering below must be specified
@@ -47,7 +47,7 @@ A server side addon for the Vault mod by the Iskallia Dev team. Adds commands an
     # Side this dependency is applied on - BOTH, CLIENT or SERVER
     side="BOTH"
 # Here's another dependency
-[[dependencies.vaulthunters]]
+[[dependencies.vaultaddons]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.16.3]"
