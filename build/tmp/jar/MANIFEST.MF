@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: vaultaddons
+Implementation-Version: 1.0
+Specification-Vendor: waidesoper
+Specification-Title: vaultaddons
+Implementation-Timestamp: 2021-06-05T21:26:06+1000
+Specification-Version: 1
+Implementation-Vendor: waidesoper
+
